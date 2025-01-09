@@ -1,0 +1,30 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:2:1-13:12
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:4:5-11:52
+	android:supportsRtl
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml:11:9-49
+uses-sdk
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/data/src/main/AndroidManifest.xml

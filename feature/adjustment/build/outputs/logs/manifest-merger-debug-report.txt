@@ -1,0 +1,48 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:4:5-24:19
+	android:supportsRtl
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:10:9-49
+activity#com.app.adjustment.changepin.ChangePin
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:13:13-48
+activity#com.app.adjustment.changepassword.ChangePassword
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:17:13-58
+activity#com.app.adjustment.googleauth.ActivateAuth
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml:21:13-52
+uses-sdk
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/adjustment/src/main/AndroidManifest.xml

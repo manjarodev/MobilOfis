@@ -1,0 +1,36 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:2:1-19:12
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:2:1-19:12
+	package
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:4:5-17:19
+	android:supportsRtl
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:5:9-35
+	android:theme
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:10:9-49
+activity#com.app.home.main.recents.RecentOps
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml:14:13-51
+uses-sdk
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/home/src/main/AndroidManifest.xml

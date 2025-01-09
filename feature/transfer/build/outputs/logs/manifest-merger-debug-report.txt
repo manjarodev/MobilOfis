@@ -1,0 +1,30 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:2:1-15:12
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:2:1-15:12
+	package
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:4:5-13:19
+activity#com.app.transfer.transfers.transferdetails.TransferDetails
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:5:9-7:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:7:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:6:13-70
+activity#com.app.transfer.signatureauth.Signing
+ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:9:9-11:40
+	android:exported
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml:10:13-50
+uses-sdk
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml
+INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/D/Projects/Freelance/mobil-office-app-android/feature/transfer/src/main/AndroidManifest.xml
